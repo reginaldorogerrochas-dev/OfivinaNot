@@ -4,3 +4,6 @@ def PrintaOlaMundo():
 print(PrintaOlaMundo)
 
 #testando
+
+
+print("20:19")
